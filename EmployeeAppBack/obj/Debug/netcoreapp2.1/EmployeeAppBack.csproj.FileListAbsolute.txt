@@ -1,0 +1,30 @@
+C:\Users\tzvis\source\repos\EmployeeAppBack\EmployeeAppBack\bin\Debug\netcoreapp2.1\EmployeeAppBack.deps.json
+C:\Users\tzvis\source\repos\EmployeeAppBack\EmployeeAppBack\bin\Debug\netcoreapp2.1\EmployeeAppBack.runtimeconfig.json
+C:\Users\tzvis\source\repos\EmployeeAppBack\EmployeeAppBack\bin\Debug\netcoreapp2.1\EmployeeAppBack.runtimeconfig.dev.json
+C:\Users\tzvis\source\repos\EmployeeAppBack\EmployeeAppBack\bin\Debug\netcoreapp2.1\EmployeeAppBack.dll
+C:\Users\tzvis\source\repos\EmployeeAppBack\EmployeeAppBack\bin\Debug\netcoreapp2.1\EmployeeAppBack.pdb
+C:\Users\tzvis\source\repos\EmployeeAppBack\EmployeeAppBack\obj\Debug\netcoreapp2.1\EmployeeAppBack.csprojAssemblyReference.cache
+C:\Users\tzvis\source\repos\EmployeeAppBack\EmployeeAppBack\obj\Debug\netcoreapp2.1\EmployeeAppBack.csproj.CoreCompileInputs.cache
+C:\Users\tzvis\source\repos\EmployeeAppBack\EmployeeAppBack\obj\Debug\netcoreapp2.1\EmployeeAppBack.RazorAssemblyInfo.cache
+C:\Users\tzvis\source\repos\EmployeeAppBack\EmployeeAppBack\obj\Debug\netcoreapp2.1\EmployeeAppBack.RazorAssemblyInfo.cs
+C:\Users\tzvis\source\repos\EmployeeAppBack\EmployeeAppBack\obj\Debug\netcoreapp2.1\EmployeeAppBack.AssemblyInfoInputs.cache
+C:\Users\tzvis\source\repos\EmployeeAppBack\EmployeeAppBack\obj\Debug\netcoreapp2.1\EmployeeAppBack.AssemblyInfo.cs
+C:\Users\tzvis\source\repos\EmployeeAppBack\EmployeeAppBack\obj\Debug\netcoreapp2.1\EmployeeAppBack.RazorTargetAssemblyInfo.cache
+C:\Users\tzvis\source\repos\EmployeeAppBack\EmployeeAppBack\obj\Debug\netcoreapp2.1\EmployeeAppBack.dll
+C:\Users\tzvis\source\repos\EmployeeAppBack\EmployeeAppBack\obj\Debug\netcoreapp2.1\EmployeeAppBack.pdb
+C:\Users\Raizel Seliger\source\repos\IYEproj\emAppBack\EmployeeAppBack\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Raizel Seliger\source\repos\IYEproj\emAppBack\EmployeeAppBack\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Raizel Seliger\source\repos\IYEproj\emAppBack\EmployeeAppBack\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Raizel Seliger\source\repos\IYEproj\emAppBack\EmployeeAppBack\bin\Debug\netcoreapp2.1\EmployeeAppBack.deps.json
+C:\Users\Raizel Seliger\source\repos\IYEproj\emAppBack\EmployeeAppBack\bin\Debug\netcoreapp2.1\EmployeeAppBack.runtimeconfig.json
+C:\Users\Raizel Seliger\source\repos\IYEproj\emAppBack\EmployeeAppBack\bin\Debug\netcoreapp2.1\EmployeeAppBack.runtimeconfig.dev.json
+C:\Users\Raizel Seliger\source\repos\IYEproj\emAppBack\EmployeeAppBack\bin\Debug\netcoreapp2.1\EmployeeAppBack.dll
+C:\Users\Raizel Seliger\source\repos\IYEproj\emAppBack\EmployeeAppBack\bin\Debug\netcoreapp2.1\EmployeeAppBack.pdb
+C:\Users\Raizel Seliger\source\repos\IYEproj\emAppBack\EmployeeAppBack\obj\Debug\netcoreapp2.1\EmployeeAppBack.csprojAssemblyReference.cache
+C:\Users\Raizel Seliger\source\repos\IYEproj\emAppBack\EmployeeAppBack\obj\Debug\netcoreapp2.1\EmployeeAppBack.RazorAssemblyInfo.cache
+C:\Users\Raizel Seliger\source\repos\IYEproj\emAppBack\EmployeeAppBack\obj\Debug\netcoreapp2.1\EmployeeAppBack.RazorAssemblyInfo.cs
+C:\Users\Raizel Seliger\source\repos\IYEproj\emAppBack\EmployeeAppBack\obj\Debug\netcoreapp2.1\EmployeeAppBack.AssemblyInfoInputs.cache
+C:\Users\Raizel Seliger\source\repos\IYEproj\emAppBack\EmployeeAppBack\obj\Debug\netcoreapp2.1\EmployeeAppBack.AssemblyInfo.cs
+C:\Users\Raizel Seliger\source\repos\IYEproj\emAppBack\EmployeeAppBack\obj\Debug\netcoreapp2.1\EmployeeAppBack.RazorTargetAssemblyInfo.cache
+C:\Users\Raizel Seliger\source\repos\IYEproj\emAppBack\EmployeeAppBack\obj\Debug\netcoreapp2.1\EmployeeAppBack.dll
+C:\Users\Raizel Seliger\source\repos\IYEproj\emAppBack\EmployeeAppBack\obj\Debug\netcoreapp2.1\EmployeeAppBack.pdb
