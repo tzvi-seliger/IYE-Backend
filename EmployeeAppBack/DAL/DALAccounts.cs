@@ -1,9 +1,7 @@
-﻿using System;
+﻿using EmployeeAppBack.Models;
+using System;
 using System.Collections.Generic;
 using System.Data.SqlClient;
-using System.Linq;
-using System.Threading.Tasks;
-using EmployeeAppBack.Models;
 
 namespace EmployeeAppBack.DAL
 {
@@ -15,6 +13,7 @@ namespace EmployeeAppBack.DAL
         {
             this.connectionString = connectionString;
         }
+
         public List<Account> GetAccounts()
         {
             List<Account> accounts = new List<Account>();
@@ -40,7 +39,6 @@ namespace EmployeeAppBack.DAL
                     }
                 }
             }
-
             catch (SqlException ex)
             {
                 throw ex;
@@ -48,6 +46,7 @@ namespace EmployeeAppBack.DAL
 
             return accounts;
         }
+
         public void AddAccount(Account account)
         {
             try
@@ -63,7 +62,6 @@ namespace EmployeeAppBack.DAL
                     cmd.ExecuteNonQuery();
                 }
             }
-
             catch (SqlException ex)
             {
                 throw ex;

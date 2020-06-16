@@ -1,26 +1,30 @@
-﻿using System;
-using System.Collections.Generic;
-using System.IO;
-using System.Linq;
-using System.Threading.Tasks;
-using EmployeeAppBack.DAL;
+﻿using EmployeeAppBack.DAL;
 using EmployeeAppBack.Models;
 using Microsoft.AspNetCore.Cors;
 using Microsoft.AspNetCore.Mvc;
+using System.Collections.Generic;
+using System.IO;
 
 namespace EmployeeAppBack.Controllers
 {
+
+    // TODO Get CompletedTrainingInfo By user
+    // TODO Get AcceptedTrainingInfo By user
+    // TODO Get EligibleTrainingInfo By user
+    // TODO Get InterestedTrainingInfo By user
+
     [Route("api/[controller]")]
     [ApiController]
     [EnableCors("CorsPolicy")]
-
     public class UserController : ControllerBase
     {
         private DALUser daluser;
+
         public UserController(DALUser daluser)
         {
             this.daluser = daluser;
         }
+
         // GET api/Accounts/Accounts
         [HttpGet]
         public ActionResult<List<User>> Get()

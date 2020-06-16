@@ -1,21 +1,18 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using EmployeeAppBack.DAL;
+﻿using EmployeeAppBack.DAL;
 using EmployeeAppBack.Models;
 using Microsoft.AspNetCore.Cors;
 using Microsoft.AspNetCore.Mvc;
+using System.Collections.Generic;
 
 namespace EmployeeAppBack.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
     [EnableCors("CorsPolicy")]
-    
     public class AccountsController : ControllerBase
     {
         private DALAccounts account;
+
         public AccountsController(DALAccounts account)
         {
             this.account = account;

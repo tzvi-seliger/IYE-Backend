@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-
-namespace EmployeeAppBack.Models
+﻿namespace EmployeeAppBack.Models
 {
     public class UserTraining
     {
@@ -15,5 +10,4 @@ namespace EmployeeAppBack.Models
 
         public string TrainingStatus { get; set; }
     }
-    
 }

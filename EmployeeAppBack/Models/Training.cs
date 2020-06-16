@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+﻿using System.Collections.Generic;
 
 namespace EmployeeAppBack.Models
 {
@@ -11,6 +8,5 @@ namespace EmployeeAppBack.Models
         public int AccountID { get; set; }
         public string TrainingName { get; set; }
         public string TrainingDescription { get; set; }
-        public List<TrainingFile> TrainingFiles { get; set; }
     }
 }

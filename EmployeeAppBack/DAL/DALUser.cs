@@ -1,11 +1,8 @@
-﻿
+﻿using EmployeeAppBack.Models;
 using System;
 using System.Collections.Generic;
 using System.Data.SqlClient;
 using System.Linq;
-using System.Threading.Tasks;
-using EmployeeAppBack.Models;
-
 
 namespace EmployeeAppBack.DAL
 {
@@ -17,7 +14,6 @@ namespace EmployeeAppBack.DAL
         {
             this.connectionString = connectionString;
         }
-
 
         // TODO api/user/id
         public User GetUser(string uname, string password)
@@ -64,7 +60,6 @@ namespace EmployeeAppBack.DAL
                     }
                 }
             }
-
             catch (SqlException ex)
             {
                 throw ex;
